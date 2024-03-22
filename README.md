@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Spotify](https://novatorem-eight-gamma.vercel.app/api/spotify)](https://open.spotify.com/user/xghx9q41b9f0p5676p3xolg2p)
+
 - 🔭 I’m currently working on building my startup [Vivencia Health](https://github.com/Vivencia-Health)
 - 🌱 I’m currently learning backend development in Rust. 
 - 👯 I’m looking to collaborate on Rust based projects, Android and iOS app development.
