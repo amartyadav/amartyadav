@@ -7,4 +7,4 @@
 - 📫 How to reach me: Email (mailto:contact@amartyadav.tech)
 - ⚡ Fun fact: If I am unreachable for a few days, assume that I am climbing a mountain somewhere in the Himalayas.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=amartyadav)](https://github.com/anuraghazra/github-readme-stats)
