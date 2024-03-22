@@ -57,7 +57,10 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/amartyadav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amartyadav" /></a></p><br><br><br>
+<div style="display: flex;">
+<a href="https://www.buymeacoffee.com/amartyadav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amartyadav" style="margin-right: 20px;" /></a>
+<img src="/icons/phonepe_qr.jpeg" height="160" width="120" style="margin-bottom: 20px;">
+</div>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amartyadav&show_icons=true&locale=en&layout=compact" alt="amartyadav" /></p><br>
