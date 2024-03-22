@@ -29,14 +29,14 @@
 <h4 align="left">Mandi Mitra - Your Sabzi Mandi Shopping Assistant</h4>
 <p align="left">
 <a href="javascript:void(0);" target="blank" style="margin-right: 20px;"><img align="center" src="/icons/mandi_mitra.png" alt="amartyadav" height="70" width="70" /></a>
-<a href="your-link-here" target="blank"><img align="center" src="/icons/app_store.png" alt="icon-description" height="50" width="150" /></a>
-<a href="your-link-here" target="blank"><img align="center" src="/icons/google-play-badge.png" alt="icon-description" height="75" width="190" /></a>
+<a href="https://apps.apple.com/in/app/mandi-mitra/id6478404044" target="blank"><img align="center" src="/icons/app_store.png" alt="icon-description" height="50" width="150" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.aatmamartya.mandimitra" target="blank"><img align="center" src="/icons/google-play-badge.png" alt="icon-description" height="75" width="190" /></a>
 </p>
 <br/>
 <h4 align="left">QuickPanchang - Simple Hindu Calendar</h4>
 <p align="left">
 <a href="javascript:void(0);" target="blank" style="margin-right: 20px;"><img align="center" src="/icons/quick_panchang.png" alt="amartyadav" height="70" width="70" /></a>
-<a href="your-link-here" target="blank"><img align="center" src="/icons/mac_app_store.png" alt="icon-description" height="45" width="170" /></a>
+<a href="https://apps.apple.com/in/app/quickpanchang-hindu-calendar/id6475807190?mt=12" target="blank"><img align="center" src="/icons/mac_app_store.png" alt="icon-description" height="45" width="170" /></a>
 </p>
 
 
