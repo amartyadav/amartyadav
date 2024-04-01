@@ -67,9 +67,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amartyadav&" alt="amartyadav" /></p>
 
-
-
 [![My GitHub stats](https://github-readme-stats-nine-mu-98.vercel.app/api?username=amartyadav)](https://github.com/amartyadav/amartyadav)
-
-## Currently Playing on Spotify
-[![Spotify](https://novatorem-eight-gamma.vercel.app/api/spotify)](https://open.spotify.com/user/xghx9q41b9f0p5676p3xolg2p)
