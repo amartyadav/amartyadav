@@ -63,8 +63,4 @@
 </div>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amartyadav&show_icons=true&locale=en&layout=compact" alt="amartyadav" /></p><br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amartyadav&" alt="amartyadav" /></p>
-
-[![My GitHub stats](https://github-readme-stats-nine-mu-98.vercel.app/api?username=amartyadav)](https://github.com/amartyadav/amartyadav)
