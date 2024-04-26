@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyadav&label=Profile%20views&color=0e75b6&style=flat" alt="amartyadav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amartyadav" alt="amartyadav" /></a> </p>
-
 - 😎 I'm a freelance software developer from Gorakhpur, India.
 
 - 🔭 I’m currently working on [building my startup Vivencia Health](https://github.com/Vivencia-Health)
