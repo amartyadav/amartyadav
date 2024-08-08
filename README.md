@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Amartya 👋</h1>
 <h3 align="center">A passionate mobile and backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amartyadav&label=Profile%20views&color=0e75b6&style=flat" alt="amartyadav" /> </p>
-
 - 😎 I'm a freelance software developer from Gorakhpur, India.
 
 - 🔭 I’m currently working on [building my startup Vivencia Health](https://github.com/Vivencia-Health)
