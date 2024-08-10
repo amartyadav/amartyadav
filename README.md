@@ -2,6 +2,7 @@
 <h3 align="center">A passionate mobile and backend developer from India</h3>
 
 - I'm a freelance software developer from Gorakhpur, India.
+- I'm pusruing my M.Sc. in High Performance Computing from the University of Edinburgh.
 
 - I’m currently working on [building my startup Vivencia Health](https://github.com/Vivencia-Health)
 
