@@ -1,25 +1,23 @@
 <h1 align="center">Hi, I'm Amartya 👋</h1>
 <h3 align="center">A passionate mobile and backend developer from India</h3>
 
-- 😎 I'm a freelance software developer from Gorakhpur, India.
+- I'm a freelance software developer from Gorakhpur, India.
 
-- 🔭 I’m currently working on [building my startup Vivencia Health](https://github.com/Vivencia-Health)
+- I’m currently working on [building my startup Vivencia Health](https://github.com/Vivencia-Health)
 
-- 🌱 I’m currently learning **Backend Development in Rust and Go.**
+- I’m currently learning **Backend Development in Rust and Go.**
 
-- 👯 I’m looking to collaborate on **Rust based projects, Android and iOS app development.**
+- I’m looking to collaborate on **Go, Rust based projects, Android and iOS/macOS app development.**
 
-- 👨‍💻 All of my projects are available at [https://amartyadav.tech/projects](https://amartyadav.tech/projects)
+- All of my projects are available at [https://amartyadav.tech/projects](https://amartyadav.tech/projects)
 
-- 💬 Ask me about **API development (Rust, .NET), Web Scraping (Python), iOS and Android development and Software Engineering.**
+- Ask me about **Backend development (Rust, Go), Web Scraping (Python), iOS and Android development and Software Engineering.**
 
-- 📫 How to reach me - **contact@amartyadav.tech**
+- How to reach me - **contact@amartyadav.tech**
 
-- 📄 Check out my CV -  [https://1drv.ms/b/s!AlkjmflJjTNyxzCpxPZV102liJT7?e=YL8bZH](https://1drv.ms/b/s!AlkjmflJjTNyxzCpxPZV102liJT7?e=YL8bZH)
+- Fun fact **I am an avid mountaineer. I regularly go on high altitude mountaineering trips to the remotest parts of the Himalayas.**
 
-- ⚡ Fun fact **I am an avid mountaineer. I regularly go on high altitude mountaineering trips to the remotest parts of the Himalayas.**
-
-<h3 align="left">Checkout my apps:</h3>
+<h3 align="left">Checkout my published apps:</h3>
 <h4 align="left">Mandi Mitra - Your Sabzi Mandi Shopping Assistant</h4>
 <p align="left">
 <a href="javascript:void(0);" target="blank" style="margin-right: 20px;"><img align="center" src="/icons/mandi_mitra.png" alt="amartyadav" height="70" width="70" /></a>
