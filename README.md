@@ -3,19 +3,11 @@
 
 - I'm a freelance software developer from Gorakhpur, India.
 - I'm pusruing my M.Sc. in High Performance Computing from the University of Edinburgh.
-
-- I’m currently working on [building my startup Vivencia Health](https://github.com/Vivencia-Health)
-
 - I’m currently learning **Backend Development in Rust and Go.**
-
 - I’m looking to collaborate on **Go, Rust based projects, Android and iOS/macOS app development.**
-
 - All of my projects are available at [https://amartyadav.tech/projects](https://amartyadav.tech/projects)
-
 - Ask me about **Backend development (Rust, Go), Web Scraping (Python), iOS and Android development and Software Engineering.**
-
 - How to reach me - **contact@amartyadav.tech**
-
 - Fun fact **I am an avid mountaineer. I regularly go on high altitude mountaineering trips to the remotest parts of the Himalayas.**
 
 <h3 align="left">Checkout my published apps:</h3>
