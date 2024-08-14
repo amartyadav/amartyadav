@@ -17,17 +17,16 @@
 <a href="https://apps.apple.com/in/app/mandi-mitra/id6478404044" target="blank"><img align="center" src="/icons/app_store.png" alt="icon-description" height="50" width="150" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.aatmamartya.mandimitra" target="blank"><img align="center" src="/icons/google-play-badge.png" alt="icon-description" height="75" width="190" /></a>
 </p>
-<br/>
 <h4 align="left">QuickPanchang - Simple Hindu Calendar</h4>
 <p align="left">
 <a href="javascript:void(0);" target="blank" style="margin-right: 20px;"><img align="center" src="/icons/quick_panchang.png" alt="amartyadav" height="70" width="70" /></a>
 <a href="https://apps.apple.com/in/app/quickpanchang-hindu-calendar/id6475807190?mt=12" target="blank"><img align="center" src="/icons/mac_app_store.png" alt="icon-description" height="45" width="170" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support</h3>
 <div style="display: flex;">
 <a href="https://www.buymeacoffee.com/amartyadav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amartyadav" style="margin-right: 20px;" /></a>
-<img src="/icons/phonepe_qr.jpeg" height="160" width="120" style="margin-bottom: 20px;">
+<img src="/icons/phonepe_qr.jpeg" height="100" width="100" style="margin-bottom: 20px;">
 </div>
 
 
