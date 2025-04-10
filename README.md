@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Amartya 👋</h1>
-<h3 align="center">A passionate mobile and backend developer from India</h3>
+<h1 align="center">Hi, I'm Amartya</h1>
+<h3 align="center">HPC and mobile developer from India</h3>
 
 - I'm a freelance software developer from Gorakhpur, India.
 - I'm pursuing my M.Sc. in High Performance Computing from the University of Edinburgh.
