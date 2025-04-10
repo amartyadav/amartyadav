@@ -28,6 +28,3 @@
 <a href="https://www.buymeacoffee.com/amartyadav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amartyadav" style="margin-right: 20px;" /></a>
 <img src="/icons/phonepe_qr.jpeg" height="100" width="100" style="margin-bottom: 20px;">
 </div>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amartyadav&" alt="amartyadav" /></p>
