@@ -9,9 +9,6 @@
 - Ask me about **Rust, MPI, parallel programming using MPI & OpenMP, web scraping (Python), and iOS development.**
 - How to reach me - **amartya@tutamail.com**
 - Fun fact -> I am an avid mountaineer. I regularly go on high-altitude mountaineering trips to the remotest parts of the Himalayas and Scottish Munros. I have also climbed the UK's highest peak - Ben Nevis.
-
-<h3 align="left">Support</h3>
 <div style="display: flex;">
 <a href="https://www.buymeacoffee.com/amartyadav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amartyadav" style="margin-right: 20px;" /></a>
-<img src="/icons/phonepe_qr.jpeg" height="100" width="100" style="margin-bottom: 20px;">
 </div>
