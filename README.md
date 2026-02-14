@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Amartya</h1>
-<h3 align="center">HPC and mobile developer from India</h3>
+<h3 align="center">HPC Software Engineer from India</h3>
 
 - I'm an HPC Software Engineer at Calligo Technologies in Bengaluru, India.
 - I was born in Gorakhpur, Uttar Pradesh, India.
